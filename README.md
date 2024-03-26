@@ -1,5 +1,10 @@
  # Retail Sales Analysis
 
+
+<img width="401" alt="shopping mall" src="https://github.com/Releb/EDA_On_Retail_Analysis/assets/164650018/964199ce-8728-4e2f-819c-bc7354b7967b">
+
+
+
 ### Table of Contents
 
 - [Project Overview](#project-overview)
@@ -13,21 +18,27 @@
 - [Reference](#reference)
 
 ## Project Overview
-
+---
 This analysis provides valuable insights into customer preferences and can guide retailers in inventory and marketing strategies.The objective is to conduct exploratory data analysis (EDA), revealing patterns, trends, and insights that can inform decision-making for the retail business
 
-### Data Source
 
+<img width="734" alt="report pic" src="https://github.com/Releb/EDA_On_Retail_Analysis/assets/164650018/b822137b-70af-4db9-b3f9-a94790d79a5a">
+
+
+
+
+### Data Source
+---
 Sales Data: The primary dataset used for this analysis is the "retail_sales_dataset.csv" file,containing detailed information about each sale made by the company
 
 ### Tools
-
+---
 - Excel - Data Cleaning [Download here](https://www.kaggle.com/datasets?search=retail+sales)
 - SQL Server - Data Analysis
 - Power BI - Creating Reports
 
 ### Data Cleaning
-
+---
 
 In the initial data preparation phase we perfomed the following tasks:
 1. Data Collection and Inspection
@@ -36,22 +47,22 @@ In the initial data preparation phase we perfomed the following tasks:
 4. Data Formatting
 
 ### Exploratory Data Analysis
-
-   EDA inloves exploring the sales data to answer key questions ,such as:
+---
+EDA involves exploring the sales data to answer key questions ,such as:
 
 - What is the overall sales trend
 - Which products are top sellers
-- What are the peak sales perions
+- What are the peak sales periods
 - Which gender and age buys more
 
 ### Data Analysis
-
+---
 ```sql
 SELECT * FROM table1
 WHERE cond = 2;
 ```
 ### Results
-
+---
 The results of analysis are summarised as follows:
 
 -Best Profitable Product Categories: The data shows that Electronics and Clothing are nearly tied as the most profitable categories, with total sales amounts of 157K and 156K respectively, followed by Beauty at 144K.
@@ -64,7 +75,7 @@ The results of analysis are summarised as follows:
 
 
 ### Recommendations
-
+---
 Based on the analysis, here are some recommendations for the retail business:
 
 -Focus on High-Profit Categories: Prioritize stocking and marketing for Electronics and Clothing, as they are the most profitable.
@@ -78,5 +89,11 @@ Based on the analysis, here are some recommendations for the retail business:
 -Customer Insights: Utilize customer data to personalize the shopping experience, which can lead to increased customer loyalty and sales.
 
 ### Reference
-
+---
 1 SQL for Business by Werty
+
+😄
+
+🥇
+
+
